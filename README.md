@@ -1,5 +1,5 @@
 # NavigationKotlin
- Using fragment with navigation
+ Using fragment with navigation #navigation #fragment #arguments
 
 ![image](https://user-images.githubusercontent.com/100219838/184606291-a2b4c6ef-d3b5-4cf9-951c-62c189ae6db2.png)
 
